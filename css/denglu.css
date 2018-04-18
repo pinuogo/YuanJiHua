@@ -1,0 +1,38 @@
+body{
+
+}
+*{
+	margin: 0px;
+}
+.top{
+	height: 66px;
+	width: 100%;
+	background-color: #fafafa;
+	border-top: 1px solid #333;
+	position: fixed;
+}
+.yemian{
+	width: 1120px;
+	margin: 0px auto;
+
+}
+.log img{
+	height: 60px;
+	float: left;
+}
+.biaoti{
+	font-size: 26px;
+	line-height: 65px;
+	float: left;
+}
+.menu{
+	display: block;
+	list-style: none;
+	position:relative;
+	margin: 0px;
+	padding-left: 0px;
+	float: right;
+}
+.menu li{
+	float: left;
+}
